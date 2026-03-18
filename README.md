@@ -19,7 +19,7 @@ Este repositorio contiene los primeros programas que he creado mientras aprendo 
 
 [operadores_aritmeticos.py](operadores_aritmeticos.py) | Operadores aritméticos y comparación entre dos números.
 
-[if_elif_else_edad.py](./if_elif_else_edad.py) | 
+[if_elif_else_edad.py](./if_elif_else_edad.py) | Clasificador de edad usando if/elif/else.
 
 *(Iré agregando más scripts conforme avance)*
 
