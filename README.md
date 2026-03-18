@@ -16,7 +16,7 @@ Este repositorio contiene los primeros programas que he creado mientras aprendo 
 ## 🚀 Scripts incluidos
 
 | Nombre | Descripción |
-
+pregunta_nombre_y_saluda.py | script de saludo personalizado con input y print
 
 *(Iré agregando más scripts conforme avance)*
 
