@@ -17,6 +17,9 @@ Este repositorio contiene los primeros programas que he creado mientras aprendo 
 
 [pregunta_nombre_y_saluda.py](./pregunta_nombre_y_saluda.py) | script de saludo personalizado con input y print
 
+[operadores_aritmeticos.py](./operaores_aritmeticos.py) | Operadores aritméticos y comparación entre dos números.
+
+
 *(Iré agregando más scripts conforme avance)*
 
 ## 🎯 Objetivo
