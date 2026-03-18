@@ -1,6 +1,3 @@
-# mis-primeros-scripts
-Scripts básicos en Python para practicar fundamentos: variables, condicionales, ciclos y funciones.
-
 # Mis primeros scripts en Python 🐍
 
 Este repositorio contiene los primeros programas que he creado mientras aprendo lógica de programación y Python. Es mi espacio de práctica y experimentación.
